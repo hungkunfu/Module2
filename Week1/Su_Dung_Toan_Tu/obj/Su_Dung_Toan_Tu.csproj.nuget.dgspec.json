@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\MODULE_2\\Week1\\month1\\month1.csproj": {}
+    "H:\\MODULE_2\\Week1\\Su_Dung_Toan_Tu\\Su_Dung_Toan_Tu.csproj": {}
   },
   "projects": {
-    "H:\\MODULE_2\\Week1\\month1\\month1.csproj": {
+    "H:\\MODULE_2\\Week1\\Su_Dung_Toan_Tu\\Su_Dung_Toan_Tu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\MODULE_2\\Week1\\month1\\month1.csproj",
-        "projectName": "month1",
-        "projectPath": "H:\\MODULE_2\\Week1\\month1\\month1.csproj",
+        "projectUniqueName": "H:\\MODULE_2\\Week1\\Su_Dung_Toan_Tu\\Su_Dung_Toan_Tu.csproj",
+        "projectName": "Su_Dung_Toan_Tu",
+        "projectPath": "H:\\MODULE_2\\Week1\\Su_Dung_Toan_Tu\\Su_Dung_Toan_Tu.csproj",
         "packagesPath": "C:\\Users\\HungTran\\.nuget\\packages\\",
-        "outputPath": "H:\\MODULE_2\\Week1\\month1\\obj\\",
+        "outputPath": "H:\\MODULE_2\\Week1\\Su_Dung_Toan_Tu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HungTran\\AppData\\Roaming\\NuGet\\NuGet.Config",

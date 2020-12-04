@@ -1,0 +1,13 @@
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\bin\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.exe
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\bin\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.deps.json
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\bin\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.runtimeconfig.json
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\bin\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.runtimeconfig.dev.json
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\bin\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.dll
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\bin\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.pdb
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\obj\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.csprojAssemblyReference.cache
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\obj\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.AssemblyInfoInputs.cache
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\obj\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.AssemblyInfo.cs
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\obj\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\obj\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.dll
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\obj\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.pdb
+H:\MODULE_2\Week1\Su_Dung_Toan_Tu\obj\Debug\netcoreapp3.1\Su_Dung_Toan_Tu.genruntimeconfig.cache
