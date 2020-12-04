@@ -1,0 +1,13 @@
+H:\MODULE_2\Week1\KiemTra_SNT\bin\Debug\netcoreapp3.1\KiemTra_SNT.exe
+H:\MODULE_2\Week1\KiemTra_SNT\bin\Debug\netcoreapp3.1\KiemTra_SNT.deps.json
+H:\MODULE_2\Week1\KiemTra_SNT\bin\Debug\netcoreapp3.1\KiemTra_SNT.runtimeconfig.json
+H:\MODULE_2\Week1\KiemTra_SNT\bin\Debug\netcoreapp3.1\KiemTra_SNT.runtimeconfig.dev.json
+H:\MODULE_2\Week1\KiemTra_SNT\bin\Debug\netcoreapp3.1\KiemTra_SNT.dll
+H:\MODULE_2\Week1\KiemTra_SNT\bin\Debug\netcoreapp3.1\KiemTra_SNT.pdb
+H:\MODULE_2\Week1\KiemTra_SNT\obj\Debug\netcoreapp3.1\KiemTra_SNT.csprojAssemblyReference.cache
+H:\MODULE_2\Week1\KiemTra_SNT\obj\Debug\netcoreapp3.1\KiemTra_SNT.AssemblyInfoInputs.cache
+H:\MODULE_2\Week1\KiemTra_SNT\obj\Debug\netcoreapp3.1\KiemTra_SNT.AssemblyInfo.cs
+H:\MODULE_2\Week1\KiemTra_SNT\obj\Debug\netcoreapp3.1\KiemTra_SNT.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week1\KiemTra_SNT\obj\Debug\netcoreapp3.1\KiemTra_SNT.dll
+H:\MODULE_2\Week1\KiemTra_SNT\obj\Debug\netcoreapp3.1\KiemTra_SNT.pdb
+H:\MODULE_2\Week1\KiemTra_SNT\obj\Debug\netcoreapp3.1\KiemTra_SNT.genruntimeconfig.cache
