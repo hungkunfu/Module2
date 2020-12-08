@@ -1,0 +1,13 @@
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\bin\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.exe
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\bin\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.deps.json
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\bin\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.runtimeconfig.json
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\bin\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.runtimeconfig.dev.json
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\bin\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.dll
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\bin\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.pdb
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\obj\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.csprojAssemblyReference.cache
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\obj\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.AssemblyInfoInputs.cache
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\obj\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.AssemblyInfo.cs
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\obj\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\obj\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.dll
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\obj\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.pdb
+H:\MODULE_2\Week1\Hien_Thi_SNT_Nho_Hon100\obj\Debug\netcoreapp3.1\Hien_Thi_SNT_Nho_Hon100.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chuyen_Doi_Tien_Te/1.0.0": {
+        "runtime": {
+          "Chuyen_Doi_Tien_Te.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chuyen_Doi_Tien_Te/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

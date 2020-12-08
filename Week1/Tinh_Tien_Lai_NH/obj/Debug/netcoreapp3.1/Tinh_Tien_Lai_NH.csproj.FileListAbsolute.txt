@@ -1,0 +1,13 @@
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\obj\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.csprojAssemblyReference.cache
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\obj\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.AssemblyInfoInputs.cache
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\obj\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.AssemblyInfo.cs
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\obj\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\bin\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.exe
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\bin\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.deps.json
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\bin\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.runtimeconfig.json
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\bin\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.runtimeconfig.dev.json
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\bin\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.dll
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\bin\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.pdb
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\obj\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.dll
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\obj\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.pdb
+H:\MODULE_2\Week1\Tinh_Tien_Lai_NH\obj\Debug\netcoreapp3.1\Tinh_Tien_Lai_NH.genruntimeconfig.cache

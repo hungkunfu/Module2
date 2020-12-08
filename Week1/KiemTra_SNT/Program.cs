@@ -43,12 +43,13 @@ namespace KiemTra_SNT
             //     }
             // }
             int number;
+            bool checked_;
             System.Console.WriteLine("Nhap vap so de kiem tra");
-            number = Convert.ToInt32(Console.ReadLine());
-            while (number < 0)
+            checked_ = int.TryParse(Console.ReadLine(), out number);
+            while (number < 0 || !checked_)
             {
                 System.Console.WriteLine("Nhap lai : ");
-                number = Convert.ToInt32(Console.ReadLine());
+                checked_ = int.TryParse(Console.ReadLine(), out number);
             }
             if (number < 2)
             {
@@ -67,7 +68,7 @@ namespace KiemTra_SNT
                     }
                     i++;
                 }
-                 if (check)
+                if (check)
                 {
                     System.Console.WriteLine(number + " " + "la so nguyen to");
 

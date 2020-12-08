@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RanDom_Mang_Hai_Chieu/1.0.0": {
+        "runtime": {
+          "RanDom_Mang_Hai_Chieu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RanDom_Mang_Hai_Chieu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\bin\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.exe
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\bin\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.deps.json
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\bin\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.runtimeconfig.json
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\bin\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.runtimeconfig.dev.json
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\bin\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.dll
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\bin\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.pdb
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\obj\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.csprojAssemblyReference.cache
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\obj\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.AssemblyInfoInputs.cache
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\obj\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.AssemblyInfo.cs
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\obj\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\obj\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.dll
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\obj\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.pdb
+H:\MODULE_2\Week1\Uoc_So_Chung_Lon_Nhat\obj\Debug\netcoreapp3.1\Uoc_So_Chung_Lon_Nhat.genruntimeconfig.cache

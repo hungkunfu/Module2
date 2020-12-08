@@ -1,0 +1,13 @@
+H:\MODULE_2\Week1\BaiHoc\bin\Debug\netcoreapp3.1\BaiHoc.exe
+H:\MODULE_2\Week1\BaiHoc\bin\Debug\netcoreapp3.1\BaiHoc.deps.json
+H:\MODULE_2\Week1\BaiHoc\bin\Debug\netcoreapp3.1\BaiHoc.runtimeconfig.json
+H:\MODULE_2\Week1\BaiHoc\bin\Debug\netcoreapp3.1\BaiHoc.runtimeconfig.dev.json
+H:\MODULE_2\Week1\BaiHoc\bin\Debug\netcoreapp3.1\BaiHoc.dll
+H:\MODULE_2\Week1\BaiHoc\bin\Debug\netcoreapp3.1\BaiHoc.pdb
+H:\MODULE_2\Week1\BaiHoc\obj\Debug\netcoreapp3.1\BaiHoc.csprojAssemblyReference.cache
+H:\MODULE_2\Week1\BaiHoc\obj\Debug\netcoreapp3.1\BaiHoc.AssemblyInfoInputs.cache
+H:\MODULE_2\Week1\BaiHoc\obj\Debug\netcoreapp3.1\BaiHoc.AssemblyInfo.cs
+H:\MODULE_2\Week1\BaiHoc\obj\Debug\netcoreapp3.1\BaiHoc.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week1\BaiHoc\obj\Debug\netcoreapp3.1\BaiHoc.dll
+H:\MODULE_2\Week1\BaiHoc\obj\Debug\netcoreapp3.1\BaiHoc.pdb
+H:\MODULE_2\Week1\BaiHoc\obj\Debug\netcoreapp3.1\BaiHoc.genruntimeconfig.cache

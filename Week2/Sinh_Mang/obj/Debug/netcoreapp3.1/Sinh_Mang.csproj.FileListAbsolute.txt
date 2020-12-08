@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\Sinh_Mang\obj\Debug\netcoreapp3.1\Sinh_Mang.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\Sinh_Mang\obj\Debug\netcoreapp3.1\Sinh_Mang.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\Sinh_Mang\obj\Debug\netcoreapp3.1\Sinh_Mang.AssemblyInfo.cs
+H:\MODULE_2\Week2\Sinh_Mang\obj\Debug\netcoreapp3.1\Sinh_Mang.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\Sinh_Mang\bin\Debug\netcoreapp3.1\Sinh_Mang.exe
+H:\MODULE_2\Week2\Sinh_Mang\bin\Debug\netcoreapp3.1\Sinh_Mang.deps.json
+H:\MODULE_2\Week2\Sinh_Mang\bin\Debug\netcoreapp3.1\Sinh_Mang.runtimeconfig.json
+H:\MODULE_2\Week2\Sinh_Mang\bin\Debug\netcoreapp3.1\Sinh_Mang.runtimeconfig.dev.json
+H:\MODULE_2\Week2\Sinh_Mang\bin\Debug\netcoreapp3.1\Sinh_Mang.dll
+H:\MODULE_2\Week2\Sinh_Mang\bin\Debug\netcoreapp3.1\Sinh_Mang.pdb
+H:\MODULE_2\Week2\Sinh_Mang\obj\Debug\netcoreapp3.1\Sinh_Mang.dll
+H:\MODULE_2\Week2\Sinh_Mang\obj\Debug\netcoreapp3.1\Sinh_Mang.pdb
+H:\MODULE_2\Week2\Sinh_Mang\obj\Debug\netcoreapp3.1\Sinh_Mang.genruntimeconfig.cache

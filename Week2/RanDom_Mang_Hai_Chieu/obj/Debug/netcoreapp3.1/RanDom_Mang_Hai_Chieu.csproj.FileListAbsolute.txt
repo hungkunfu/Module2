@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\obj\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\obj\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\obj\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.AssemblyInfo.cs
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\obj\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\bin\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.exe
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\bin\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.deps.json
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\bin\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.runtimeconfig.json
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\bin\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.runtimeconfig.dev.json
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\bin\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.dll
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\bin\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.pdb
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\obj\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.dll
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\obj\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.pdb
+H:\MODULE_2\Week2\RanDom_Mang_Hai_Chieu\obj\Debug\netcoreapp3.1\RanDom_Mang_Hai_Chieu.genruntimeconfig.cache

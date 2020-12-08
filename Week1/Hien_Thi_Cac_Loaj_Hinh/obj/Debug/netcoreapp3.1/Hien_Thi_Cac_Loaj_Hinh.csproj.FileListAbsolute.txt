@@ -1,0 +1,13 @@
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\bin\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.exe
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\bin\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.deps.json
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\bin\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.runtimeconfig.json
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\bin\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.runtimeconfig.dev.json
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\bin\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.dll
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\bin\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.pdb
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\obj\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.csprojAssemblyReference.cache
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\obj\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.AssemblyInfoInputs.cache
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\obj\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.AssemblyInfo.cs
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\obj\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\obj\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.dll
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\obj\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.pdb
+H:\MODULE_2\Week1\Hien_Thi_Cac_Loaj_Hinh\obj\Debug\netcoreapp3.1\Hien_Thi_Cac_Loaj_Hinh.genruntimeconfig.cache

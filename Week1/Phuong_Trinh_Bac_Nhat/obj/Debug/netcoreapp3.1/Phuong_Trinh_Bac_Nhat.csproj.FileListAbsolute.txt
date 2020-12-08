@@ -1,0 +1,13 @@
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\bin\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.exe
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\bin\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.deps.json
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\bin\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.runtimeconfig.json
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\bin\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.runtimeconfig.dev.json
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\bin\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.dll
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\bin\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.pdb
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\obj\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.csprojAssemblyReference.cache
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\obj\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.AssemblyInfoInputs.cache
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\obj\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.AssemblyInfo.cs
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\obj\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\obj\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.dll
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\obj\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.pdb
+H:\MODULE_2\Week1\Phuong_Trinh_Bac_Nhat\obj\Debug\netcoreapp3.1\Phuong_Trinh_Bac_Nhat.genruntimeconfig.cache

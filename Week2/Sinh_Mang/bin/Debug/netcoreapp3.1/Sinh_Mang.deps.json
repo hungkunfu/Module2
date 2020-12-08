@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sinh_Mang/1.0.0": {
+        "runtime": {
+          "Sinh_Mang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sinh_Mang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

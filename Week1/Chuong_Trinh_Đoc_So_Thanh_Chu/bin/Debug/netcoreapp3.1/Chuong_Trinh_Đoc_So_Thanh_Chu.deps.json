@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chuong_Trinh_Đoc_So_Thanh_Chu/1.0.0": {
+        "runtime": {
+          "Chuong_Trinh_Đoc_So_Thanh_Chu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chuong_Trinh_Đoc_So_Thanh_Chu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

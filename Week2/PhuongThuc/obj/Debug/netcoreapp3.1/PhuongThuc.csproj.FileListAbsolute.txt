@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.exe
+H:\MODULE_2\Week2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.deps.json
+H:\MODULE_2\Week2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.runtimeconfig.json
+H:\MODULE_2\Week2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.runtimeconfig.dev.json
+H:\MODULE_2\Week2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.dll
+H:\MODULE_2\Week2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.pdb
+H:\MODULE_2\Week2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.AssemblyInfo.cs
+H:\MODULE_2\Week2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.dll
+H:\MODULE_2\Week2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.pdb
+H:\MODULE_2\Week2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.genruntimeconfig.cache
