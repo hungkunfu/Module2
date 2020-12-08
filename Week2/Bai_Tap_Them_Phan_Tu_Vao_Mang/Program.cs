@@ -7,7 +7,7 @@ namespace Bai_Tap_Them_Phan_Tu_Vao_Mang
         public static void Main()
         {
             int[] arr = new int[10];
-            int i, size, p, x;
+            int i, size, Value, index;
 
             Console.Write("\nChen phan tu vao mang trong C#: \n");
             Console.Write("--------------------------------\n");
@@ -23,18 +23,18 @@ namespace Bai_Tap_Them_Phan_Tu_Vao_Mang
 
 
             Console.Write("Nhap gia tri phan tu moi can chen: ");
-            x = Convert.ToInt32(Console.ReadLine());
+            index = Convert.ToInt32(Console.ReadLine());
             Console.Write("Nhap vi tri can chen phan tu moi nay: ");
-            p = Convert.ToInt32(Console.ReadLine());
+            Value = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("In mang ban dau:\n");
             for (i = 0; i < size; i++)
                 Console.Write("{0} ", arr[i]);
             /* di chuyen vi tri cac phan tu ben phai cua mang */
-            for (i = size; i >= p; i--)
+            for (i = size; i >= Value; i--)
                 arr[i] = arr[i - 1];
             /* chen gia tri vao vi tri da cho */
-            arr[p - 1] = x;
+            arr[Value - 1] = index;
 
 
             Console.Write("\n\nSau khi chen phan tu, mang co dang:\n");

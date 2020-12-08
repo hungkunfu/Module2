@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\bin\Debug\netcoreapp3.1\Nhap_Xuat_Mang.exe
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\bin\Debug\netcoreapp3.1\Nhap_Xuat_Mang.deps.json
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\bin\Debug\netcoreapp3.1\Nhap_Xuat_Mang.runtimeconfig.json
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\bin\Debug\netcoreapp3.1\Nhap_Xuat_Mang.runtimeconfig.dev.json
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\bin\Debug\netcoreapp3.1\Nhap_Xuat_Mang.dll
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\bin\Debug\netcoreapp3.1\Nhap_Xuat_Mang.pdb
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\obj\Debug\netcoreapp3.1\Nhap_Xuat_Mang.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\obj\Debug\netcoreapp3.1\Nhap_Xuat_Mang.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\obj\Debug\netcoreapp3.1\Nhap_Xuat_Mang.AssemblyInfo.cs
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\obj\Debug\netcoreapp3.1\Nhap_Xuat_Mang.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\obj\Debug\netcoreapp3.1\Nhap_Xuat_Mang.dll
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\obj\Debug\netcoreapp3.1\Nhap_Xuat_Mang.pdb
+H:\MODULE_2\Week2\Nhap_Xuat_Mang\obj\Debug\netcoreapp3.1\Nhap_Xuat_Mang.genruntimeconfig.cache

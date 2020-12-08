@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\bin\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.exe
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\bin\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.deps.json
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\bin\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.runtimeconfig.json
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\bin\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.runtimeconfig.dev.json
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\bin\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.dll
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\bin\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.pdb
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\obj\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\obj\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\obj\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.AssemblyInfo.cs
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\obj\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\obj\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.dll
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\obj\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.pdb
+H:\MODULE_2\Week2\Tim_So_Phan_Tu_Giong_Nhau\obj\Debug\netcoreapp3.1\Tim_So_Phan_Tu_Giong_Nhau.genruntimeconfig.cache

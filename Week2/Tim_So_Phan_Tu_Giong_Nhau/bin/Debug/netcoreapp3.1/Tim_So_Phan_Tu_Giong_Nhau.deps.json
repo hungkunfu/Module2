@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tim_So_Phan_Tu_Giong_Nhau/1.0.0": {
+        "runtime": {
+          "Tim_So_Phan_Tu_Giong_Nhau.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tim_So_Phan_Tu_Giong_Nhau/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

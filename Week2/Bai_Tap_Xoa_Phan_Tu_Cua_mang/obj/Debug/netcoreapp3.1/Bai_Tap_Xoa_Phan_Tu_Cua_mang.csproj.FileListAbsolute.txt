@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\bin\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.exe
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\bin\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.deps.json
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\bin\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.runtimeconfig.json
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\bin\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.runtimeconfig.dev.json
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\bin\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.dll
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\bin\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.pdb
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\obj\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\obj\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\obj\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.AssemblyInfo.cs
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\obj\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\obj\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.dll
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\obj\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.pdb
+H:\MODULE_2\Week2\Bai_Tap_Xoa_Phan_Tu_Cua_mang\obj\Debug\netcoreapp3.1\Bai_Tap_Xoa_Phan_Tu_Cua_mang.genruntimeconfig.cache
