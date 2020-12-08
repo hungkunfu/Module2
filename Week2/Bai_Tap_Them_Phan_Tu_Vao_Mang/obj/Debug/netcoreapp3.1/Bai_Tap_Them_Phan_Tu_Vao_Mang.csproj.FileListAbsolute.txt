@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\obj\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\obj\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\obj\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.AssemblyInfo.cs
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\obj\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\bin\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.exe
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\bin\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.deps.json
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\bin\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.runtimeconfig.json
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\bin\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.runtimeconfig.dev.json
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\bin\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.dll
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\bin\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.pdb
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\obj\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.dll
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\obj\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.pdb
+H:\MODULE_2\Week2\Bai_Tap_Them_Phan_Tu_Vao_Mang\obj\Debug\netcoreapp3.1\Bai_Tap_Them_Phan_Tu_Vao_Mang.genruntimeconfig.cache

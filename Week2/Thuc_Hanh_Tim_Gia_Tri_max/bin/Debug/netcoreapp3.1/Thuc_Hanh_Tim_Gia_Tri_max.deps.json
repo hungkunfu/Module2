@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Thuc_Hanh_Tim_Gia_Tri_max/1.0.0": {
+        "runtime": {
+          "Thuc_Hanh_Tim_Gia_Tri_max.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thuc_Hanh_Tim_Gia_Tri_max/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

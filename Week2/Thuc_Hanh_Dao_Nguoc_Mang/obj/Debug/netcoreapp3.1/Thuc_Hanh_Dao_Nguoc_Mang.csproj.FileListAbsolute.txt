@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\obj\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\obj\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\obj\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.AssemblyInfo.cs
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\obj\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\bin\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.exe
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\bin\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.deps.json
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\bin\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.runtimeconfig.json
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\bin\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.runtimeconfig.dev.json
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\bin\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.dll
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\bin\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.pdb
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\obj\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.dll
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\obj\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.pdb
+H:\MODULE_2\Week2\Thuc_Hanh_Dao_Nguoc_Mang\obj\Debug\netcoreapp3.1\Thuc_Hanh_Dao_Nguoc_Mang.genruntimeconfig.cache

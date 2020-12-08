@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\bin\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.exe
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\bin\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.deps.json
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\bin\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.runtimeconfig.json
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\bin\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.runtimeconfig.dev.json
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\bin\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.dll
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\bin\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.pdb
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\obj\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\obj\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\obj\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.AssemblyInfo.cs
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\obj\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\obj\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.dll
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\obj\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.pdb
+H:\MODULE_2\Week2\Thuc_Hanh_Tim_Gia_Tri_max\obj\Debug\netcoreapp3.1\Thuc_Hanh_Tim_Gia_Tri_max.genruntimeconfig.cache
