@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mang_mot_Chieu_Day_du/1.0.0": {
+        "runtime": {
+          "Mang_mot_Chieu_Day_du.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mang_mot_Chieu_Day_du/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

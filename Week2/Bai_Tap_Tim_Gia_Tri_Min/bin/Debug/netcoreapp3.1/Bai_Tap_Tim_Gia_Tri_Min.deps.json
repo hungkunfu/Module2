@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bai_Tap_Tim_Gia_Tri_Min/1.0.0": {
+        "runtime": {
+          "Bai_Tap_Tim_Gia_Tri_Min.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai_Tap_Tim_Gia_Tri_Min/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

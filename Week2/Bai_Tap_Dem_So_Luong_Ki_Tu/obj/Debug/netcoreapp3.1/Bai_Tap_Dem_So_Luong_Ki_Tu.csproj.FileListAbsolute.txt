@@ -1,0 +1,13 @@
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\bin\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.exe
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\bin\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.deps.json
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\bin\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.runtimeconfig.json
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\bin\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.runtimeconfig.dev.json
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\bin\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.dll
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\bin\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.pdb
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\obj\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.csprojAssemblyReference.cache
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\obj\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.AssemblyInfoInputs.cache
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\obj\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.AssemblyInfo.cs
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\obj\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\obj\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.dll
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\obj\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.pdb
+H:\MODULE_2\Week2\Bai_Tap_Dem_So_Luong_Ki_Tu\obj\Debug\netcoreapp3.1\Bai_Tap_Dem_So_Luong_Ki_Tu.genruntimeconfig.cache

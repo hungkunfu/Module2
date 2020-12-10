@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bai_Tap_Tinh_Tong_Duong_Cheo_Chinh_Ma_Tran_vuong/1.0.0": {
+        "runtime": {
+          "Bai_Tap_Tinh_Tong_Duong_Cheo_Chinh_Ma_Tran_vuong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai_Tap_Tinh_Tong_Duong_Cheo_Chinh_Ma_Tran_vuong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

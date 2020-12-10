@@ -1,0 +1,4 @@
+H:\MODULE_2\Week3\Bai_Tap_Lam_Them\obj\Debug\netcoreapp3.1\Bai_Tap_Lam_Them.csprojAssemblyReference.cache
+H:\MODULE_2\Week3\Bai_Tap_Lam_Them\obj\Debug\netcoreapp3.1\Bai_Tap_Lam_Them.AssemblyInfoInputs.cache
+H:\MODULE_2\Week3\Bai_Tap_Lam_Them\obj\Debug\netcoreapp3.1\Bai_Tap_Lam_Them.AssemblyInfo.cs
+H:\MODULE_2\Week3\Bai_Tap_Lam_Them\obj\Debug\netcoreapp3.1\Bai_Tap_Lam_Them.csproj.CoreCompileInputs.cache

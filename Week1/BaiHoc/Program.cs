@@ -6,7 +6,7 @@ namespace BaiHoc
     {
         static void Main(string[] args)
         {
-            int t;
+            
              
         }
     }

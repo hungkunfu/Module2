@@ -1,0 +1,13 @@
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\bin\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.exe
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\bin\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.deps.json
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\bin\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.runtimeconfig.json
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\bin\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.runtimeconfig.dev.json
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\bin\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.dll
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\bin\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.pdb
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\obj\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.csprojAssemblyReference.cache
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\obj\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.AssemblyInfoInputs.cache
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\obj\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.AssemblyInfo.cs
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\obj\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\obj\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.dll
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\obj\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.pdb
+H:\MODULE_2\Week3\Mang_mot_Chieu_Day_du\obj\Debug\netcoreapp3.1\Mang_mot_Chieu_Day_du.genruntimeconfig.cache

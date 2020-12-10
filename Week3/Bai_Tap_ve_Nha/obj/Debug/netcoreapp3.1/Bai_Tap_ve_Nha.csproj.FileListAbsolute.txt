@@ -1,0 +1,13 @@
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\obj\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.csprojAssemblyReference.cache
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\obj\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.AssemblyInfoInputs.cache
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\obj\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.AssemblyInfo.cs
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\obj\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\bin\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.exe
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\bin\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.deps.json
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\bin\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.runtimeconfig.json
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\bin\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.runtimeconfig.dev.json
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\bin\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.dll
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\bin\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.pdb
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\obj\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.dll
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\obj\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.pdb
+H:\MODULE_2\Week3\Bai_Tap_ve_Nha\obj\Debug\netcoreapp3.1\Bai_Tap_ve_Nha.genruntimeconfig.cache
