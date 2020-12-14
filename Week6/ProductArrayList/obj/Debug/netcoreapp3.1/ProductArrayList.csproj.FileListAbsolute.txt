@@ -1,0 +1,13 @@
+H:\MODULE_2\Week6\ProductArrayList\obj\Debug\netcoreapp3.1\ProductArrayList.csprojAssemblyReference.cache
+H:\MODULE_2\Week6\ProductArrayList\obj\Debug\netcoreapp3.1\ProductArrayList.AssemblyInfoInputs.cache
+H:\MODULE_2\Week6\ProductArrayList\obj\Debug\netcoreapp3.1\ProductArrayList.AssemblyInfo.cs
+H:\MODULE_2\Week6\ProductArrayList\obj\Debug\netcoreapp3.1\ProductArrayList.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week6\ProductArrayList\bin\Debug\netcoreapp3.1\ProductArrayList.exe
+H:\MODULE_2\Week6\ProductArrayList\bin\Debug\netcoreapp3.1\ProductArrayList.deps.json
+H:\MODULE_2\Week6\ProductArrayList\bin\Debug\netcoreapp3.1\ProductArrayList.runtimeconfig.json
+H:\MODULE_2\Week6\ProductArrayList\bin\Debug\netcoreapp3.1\ProductArrayList.runtimeconfig.dev.json
+H:\MODULE_2\Week6\ProductArrayList\bin\Debug\netcoreapp3.1\ProductArrayList.dll
+H:\MODULE_2\Week6\ProductArrayList\bin\Debug\netcoreapp3.1\ProductArrayList.pdb
+H:\MODULE_2\Week6\ProductArrayList\obj\Debug\netcoreapp3.1\ProductArrayList.dll
+H:\MODULE_2\Week6\ProductArrayList\obj\Debug\netcoreapp3.1\ProductArrayList.pdb
+H:\MODULE_2\Week6\ProductArrayList\obj\Debug\netcoreapp3.1\ProductArrayList.genruntimeconfig.cache

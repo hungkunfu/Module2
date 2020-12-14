@@ -1,0 +1,13 @@
+H:\MODULE_2\Week4\ManagerProduct\obj\Debug\netcoreapp3.1\ManagerProduct.csprojAssemblyReference.cache
+H:\MODULE_2\Week4\ManagerProduct\obj\Debug\netcoreapp3.1\ManagerProduct.AssemblyInfoInputs.cache
+H:\MODULE_2\Week4\ManagerProduct\obj\Debug\netcoreapp3.1\ManagerProduct.AssemblyInfo.cs
+H:\MODULE_2\Week4\ManagerProduct\obj\Debug\netcoreapp3.1\ManagerProduct.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week4\ManagerProduct\bin\Debug\netcoreapp3.1\ManagerProduct.exe
+H:\MODULE_2\Week4\ManagerProduct\bin\Debug\netcoreapp3.1\ManagerProduct.deps.json
+H:\MODULE_2\Week4\ManagerProduct\bin\Debug\netcoreapp3.1\ManagerProduct.runtimeconfig.json
+H:\MODULE_2\Week4\ManagerProduct\bin\Debug\netcoreapp3.1\ManagerProduct.runtimeconfig.dev.json
+H:\MODULE_2\Week4\ManagerProduct\bin\Debug\netcoreapp3.1\ManagerProduct.dll
+H:\MODULE_2\Week4\ManagerProduct\bin\Debug\netcoreapp3.1\ManagerProduct.pdb
+H:\MODULE_2\Week4\ManagerProduct\obj\Debug\netcoreapp3.1\ManagerProduct.dll
+H:\MODULE_2\Week4\ManagerProduct\obj\Debug\netcoreapp3.1\ManagerProduct.pdb
+H:\MODULE_2\Week4\ManagerProduct\obj\Debug\netcoreapp3.1\ManagerProduct.genruntimeconfig.cache

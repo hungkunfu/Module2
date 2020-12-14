@@ -1,0 +1,13 @@
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\obj\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.csprojAssemblyReference.cache
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\obj\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.AssemblyInfoInputs.cache
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\obj\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.AssemblyInfo.cs
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\obj\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\bin\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.exe
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\bin\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.deps.json
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\bin\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.runtimeconfig.json
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\bin\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.runtimeconfig.dev.json
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\bin\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.dll
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\bin\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.pdb
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\obj\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.dll
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\obj\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.pdb
+H:\MODULE_2\Week3\Bai_Tap_Ve _Nha_Bang_Class\obj\Debug\netcoreapp3.1\Bai_Tap_Ve _Nha_Bang_Class.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.exe
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.deps.json
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.runtimeconfig.json
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.runtimeconfig.dev.json
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.dll
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.pdb
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.csprojAssemblyReference.cache
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.AssemblyInfoInputs.cache
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.AssemblyInfo.cs
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.dll
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.pdb
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_StopWatch\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_StopWatch.genruntimeconfig.cache

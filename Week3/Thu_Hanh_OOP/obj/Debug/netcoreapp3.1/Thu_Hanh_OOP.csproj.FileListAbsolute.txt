@@ -1,0 +1,13 @@
+H:\MODULE_2\Week3\Thu_Hanh_OOP\obj\Debug\netcoreapp3.1\Thu_Hanh_OOP.csprojAssemblyReference.cache
+H:\MODULE_2\Week3\Thu_Hanh_OOP\obj\Debug\netcoreapp3.1\Thu_Hanh_OOP.AssemblyInfoInputs.cache
+H:\MODULE_2\Week3\Thu_Hanh_OOP\obj\Debug\netcoreapp3.1\Thu_Hanh_OOP.AssemblyInfo.cs
+H:\MODULE_2\Week3\Thu_Hanh_OOP\obj\Debug\netcoreapp3.1\Thu_Hanh_OOP.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week3\Thu_Hanh_OOP\bin\Debug\netcoreapp3.1\Thu_Hanh_OOP.exe
+H:\MODULE_2\Week3\Thu_Hanh_OOP\bin\Debug\netcoreapp3.1\Thu_Hanh_OOP.deps.json
+H:\MODULE_2\Week3\Thu_Hanh_OOP\bin\Debug\netcoreapp3.1\Thu_Hanh_OOP.runtimeconfig.json
+H:\MODULE_2\Week3\Thu_Hanh_OOP\bin\Debug\netcoreapp3.1\Thu_Hanh_OOP.runtimeconfig.dev.json
+H:\MODULE_2\Week3\Thu_Hanh_OOP\bin\Debug\netcoreapp3.1\Thu_Hanh_OOP.dll
+H:\MODULE_2\Week3\Thu_Hanh_OOP\bin\Debug\netcoreapp3.1\Thu_Hanh_OOP.pdb
+H:\MODULE_2\Week3\Thu_Hanh_OOP\obj\Debug\netcoreapp3.1\Thu_Hanh_OOP.dll
+H:\MODULE_2\Week3\Thu_Hanh_OOP\obj\Debug\netcoreapp3.1\Thu_Hanh_OOP.pdb
+H:\MODULE_2\Week3\Thu_Hanh_OOP\obj\Debug\netcoreapp3.1\Thu_Hanh_OOP.genruntimeconfig.cache

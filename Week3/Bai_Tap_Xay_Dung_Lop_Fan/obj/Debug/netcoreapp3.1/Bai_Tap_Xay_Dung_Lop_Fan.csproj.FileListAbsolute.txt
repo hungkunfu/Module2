@@ -1,0 +1,13 @@
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.exe
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.deps.json
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.runtimeconfig.json
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.runtimeconfig.dev.json
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.dll
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\bin\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.pdb
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.csprojAssemblyReference.cache
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.AssemblyInfoInputs.cache
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.AssemblyInfo.cs
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.dll
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.pdb
+H:\MODULE_2\Week3\Bai_Tap_Xay_Dung_Lop_Fan\obj\Debug\netcoreapp3.1\Bai_Tap_Xay_Dung_Lop_Fan.genruntimeconfig.cache
