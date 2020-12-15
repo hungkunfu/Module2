@@ -61,11 +61,11 @@ namespace Bai_Tap_Xay_Dung_Lop_Fan
 
         }
 
-       public void ToString()
-        {
-         System.Console.WriteLine( " speed " + SLOW + " color " + COLOR + " radius " + DARIUS );  
+    //    public string ToString()
+    //     {
+    //      System.Console.WriteLine( " speed " + SLOW + " color " + COLOR + " radius " + DARIUS );  
             
-        }
+    //     }
 
     }
 }

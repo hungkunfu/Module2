@@ -1,0 +1,13 @@
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\obj\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.csprojAssemblyReference.cache
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\obj\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.AssemblyInfoInputs.cache
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\obj\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.AssemblyInfo.cs
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\obj\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.csproj.CoreCompileInputs.cache
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\bin\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.exe
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\bin\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.deps.json
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\bin\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.runtimeconfig.json
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\bin\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.runtimeconfig.dev.json
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\bin\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.dll
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\bin\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.pdb
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\obj\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.dll
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\obj\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.pdb
+H:\MODULE_2\Week3\Thuc_Hanh_StaticProperty\obj\Debug\netcoreapp3.1\Thuc_Hanh_StaticProperty.genruntimeconfig.cache

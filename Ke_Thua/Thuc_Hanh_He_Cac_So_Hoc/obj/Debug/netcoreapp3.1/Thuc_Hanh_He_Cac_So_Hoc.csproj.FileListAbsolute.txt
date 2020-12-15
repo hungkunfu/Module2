@@ -1,0 +1,4 @@
+H:\MODULE_2\Ke_Thua\Thuc_Hanh_He_Cac_So_Hoc\obj\Debug\netcoreapp3.1\Thuc_Hanh_He_Cac_So_Hoc.csprojAssemblyReference.cache
+H:\MODULE_2\Ke_Thua\Thuc_Hanh_He_Cac_So_Hoc\obj\Debug\netcoreapp3.1\Thuc_Hanh_He_Cac_So_Hoc.AssemblyInfoInputs.cache
+H:\MODULE_2\Ke_Thua\Thuc_Hanh_He_Cac_So_Hoc\obj\Debug\netcoreapp3.1\Thuc_Hanh_He_Cac_So_Hoc.AssemblyInfo.cs
+H:\MODULE_2\Ke_Thua\Thuc_Hanh_He_Cac_So_Hoc\obj\Debug\netcoreapp3.1\Thuc_Hanh_He_Cac_So_Hoc.csproj.CoreCompileInputs.cache
