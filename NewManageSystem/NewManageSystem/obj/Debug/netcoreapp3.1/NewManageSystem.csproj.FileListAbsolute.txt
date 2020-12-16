@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\obj\Debug\netcoreapp3.1\NewManageSystem.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\obj\Debug\netcoreapp3.1\NewManageSystem.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\obj\Debug\netcoreapp3.1\NewManageSystem.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\obj\Debug\netcoreapp3.1\NewManageSystem.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\bin\Debug\netcoreapp3.1\NewManageSystem.exe
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\bin\Debug\netcoreapp3.1\NewManageSystem.deps.json
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\bin\Debug\netcoreapp3.1\NewManageSystem.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\bin\Debug\netcoreapp3.1\NewManageSystem.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\bin\Debug\netcoreapp3.1\NewManageSystem.dll
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\bin\Debug\netcoreapp3.1\NewManageSystem.pdb
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\obj\Debug\netcoreapp3.1\NewManageSystem.dll
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\obj\Debug\netcoreapp3.1\NewManageSystem.pdb
+C:\Users\HungTran\Source\Repos\NewManageSystem\NewManageSystem\obj\Debug\netcoreapp3.1\NewManageSystem.genruntimeconfig.cache
