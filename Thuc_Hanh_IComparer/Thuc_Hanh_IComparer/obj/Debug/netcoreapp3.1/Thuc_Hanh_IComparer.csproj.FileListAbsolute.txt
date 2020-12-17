@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\bin\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.exe
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\bin\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.deps.json
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\bin\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\bin\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\bin\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.dll
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\bin\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.pdb
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\obj\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\obj\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\obj\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\obj\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\obj\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.dll
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\obj\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.pdb
+C:\Users\HungTran\Source\Repos\Thuc_Hanh_IComparer\Thuc_Hanh_IComparer\obj\Debug\netcoreapp3.1\Thuc_Hanh_IComparer.genruntimeconfig.cache
