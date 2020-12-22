@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\bin\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.exe
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\bin\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.deps.json
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\bin\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\bin\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\bin\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.dll
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\bin\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.pdb
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\obj\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\obj\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\obj\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\obj\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\obj\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.dll
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\obj\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.pdb
+C:\Users\HungTran\Source\Repos\TH_Queue_Danh_Sach_Lien_ket\TH_Queue_Danh_Sach_Lien_ket\obj\Debug\netcoreapp3.1\TH_Queue_Danh_Sach_Lien_ket.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TH_Queue_Danh_Sach_Lien_ket/1.0.0": {
+        "runtime": {
+          "TH_Queue_Danh_Sach_Lien_ket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TH_Queue_Danh_Sach_Lien_ket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
