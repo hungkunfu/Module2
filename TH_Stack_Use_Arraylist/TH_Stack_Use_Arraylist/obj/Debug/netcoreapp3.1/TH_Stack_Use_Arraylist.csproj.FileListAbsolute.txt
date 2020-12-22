@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\bin\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.exe
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\bin\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.deps.json
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\bin\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\bin\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\bin\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.dll
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\bin\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.pdb
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\obj\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\obj\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\obj\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\obj\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\obj\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.dll
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\obj\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.pdb
+C:\Users\HungTran\Source\Repos\TH_Stack_Use_Arraylist\TH_Stack_Use_Arraylist\obj\Debug\netcoreapp3.1\TH_Stack_Use_Arraylist.genruntimeconfig.cache
