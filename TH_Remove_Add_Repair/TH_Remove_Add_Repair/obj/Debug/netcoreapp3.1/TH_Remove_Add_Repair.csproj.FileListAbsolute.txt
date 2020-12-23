@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\bin\Debug\netcoreapp3.1\TH_Remove_Add_Repair.exe
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\bin\Debug\netcoreapp3.1\TH_Remove_Add_Repair.deps.json
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\bin\Debug\netcoreapp3.1\TH_Remove_Add_Repair.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\bin\Debug\netcoreapp3.1\TH_Remove_Add_Repair.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\bin\Debug\netcoreapp3.1\TH_Remove_Add_Repair.dll
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\bin\Debug\netcoreapp3.1\TH_Remove_Add_Repair.pdb
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\obj\Debug\netcoreapp3.1\TH_Remove_Add_Repair.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\obj\Debug\netcoreapp3.1\TH_Remove_Add_Repair.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\obj\Debug\netcoreapp3.1\TH_Remove_Add_Repair.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\obj\Debug\netcoreapp3.1\TH_Remove_Add_Repair.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\obj\Debug\netcoreapp3.1\TH_Remove_Add_Repair.dll
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\obj\Debug\netcoreapp3.1\TH_Remove_Add_Repair.pdb
+C:\Users\HungTran\Source\Repos\TH_Remove_Add_Repair\TH_Remove_Add_Repair\obj\Debug\netcoreapp3.1\TH_Remove_Add_Repair.genruntimeconfig.cache
