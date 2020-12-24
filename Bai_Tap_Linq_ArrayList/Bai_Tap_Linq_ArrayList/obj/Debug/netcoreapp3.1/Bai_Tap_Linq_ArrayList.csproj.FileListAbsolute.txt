@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\bin\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.exe
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\bin\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.deps.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\bin\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\bin\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\bin\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\bin\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\obj\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\obj\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\obj\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\obj\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\obj\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\obj\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Linq_ArrayList\Bai_Tap_Linq_ArrayList\obj\Debug\netcoreapp3.1\Bai_Tap_Linq_ArrayList.genruntimeconfig.cache
