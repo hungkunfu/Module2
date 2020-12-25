@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.exe
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.deps.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Collection_Generic\Bai_Tap_Collection_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Collection_Generic.genruntimeconfig.cache
