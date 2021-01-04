@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.exe
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.deps.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\bin\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Khoi_Tao_Generic\Bai_Tap_Khoi_Tao_Generic\obj\Debug\netcoreapp3.1\Bai_Tap_Khoi_Tao_Generic.genruntimeconfig.cache
