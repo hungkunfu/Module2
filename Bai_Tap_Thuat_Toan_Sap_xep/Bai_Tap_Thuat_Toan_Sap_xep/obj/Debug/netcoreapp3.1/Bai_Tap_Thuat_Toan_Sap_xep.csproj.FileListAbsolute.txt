@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\bin\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.exe
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\bin\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.deps.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\bin\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\bin\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\bin\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\bin\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\obj\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\obj\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\obj\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\obj\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\obj\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\obj\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Thuat_Toan_Sap_xep\Bai_Tap_Thuat_Toan_Sap_xep\obj\Debug\netcoreapp3.1\Bai_Tap_Thuat_Toan_Sap_xep.genruntimeconfig.cache
