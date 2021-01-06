@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\bin\Debug\netcoreapp3.1\TH_Đe_Quy.exe
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\bin\Debug\netcoreapp3.1\TH_Đe_Quy.deps.json
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\bin\Debug\netcoreapp3.1\TH_Đe_Quy.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\bin\Debug\netcoreapp3.1\TH_Đe_Quy.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\bin\Debug\netcoreapp3.1\TH_Đe_Quy.dll
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\bin\Debug\netcoreapp3.1\TH_Đe_Quy.pdb
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\obj\Debug\netcoreapp3.1\TH_Đe_Quy.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\obj\Debug\netcoreapp3.1\TH_Đe_Quy.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\obj\Debug\netcoreapp3.1\TH_Đe_Quy.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\obj\Debug\netcoreapp3.1\TH_Đe_Quy.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\obj\Debug\netcoreapp3.1\TH_Đe_Quy.dll
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\obj\Debug\netcoreapp3.1\TH_Đe_Quy.pdb
+C:\Users\HungTran\Source\Repos\TH_Đe_Quy\TH_Đe_Quy\obj\Debug\netcoreapp3.1\TH_Đe_Quy.genruntimeconfig.cache
