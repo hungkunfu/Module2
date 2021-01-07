@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\bin\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.exe
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\bin\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.deps.json
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\bin\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\bin\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\bin\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.dll
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\bin\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.pdb
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\obj\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\obj\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\obj\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\obj\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\obj\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.dll
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\obj\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.pdb
+C:\Users\HungTran\Source\Repos\DocFile_GhiFile_MangHaichieu\DocFile_GhiFile_MangHaichieu\obj\Debug\netcoreapp3.1\DocFile_GhiFile_MangHaichieu.genruntimeconfig.cache
