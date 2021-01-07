@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\bin\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.exe
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\bin\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.deps.json
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\bin\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\bin\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\bin\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.dll
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\bin\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.pdb
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\obj\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\obj\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\obj\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\obj\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.dll
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\obj\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.pdb
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\obj\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.genruntimeconfig.cache
+C:\Users\HungTran\Source\Repos\BT_DocFile_GhiFile_Mang\BT_DocFile_GhiFile_Mang\obj\Debug\netcoreapp3.1\BT_DocFile_GhiFile_Mang.csprojAssemblyReference.cache
