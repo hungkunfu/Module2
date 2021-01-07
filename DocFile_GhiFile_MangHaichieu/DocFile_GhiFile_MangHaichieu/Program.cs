@@ -64,9 +64,26 @@ namespace DocFile_GhiFile_MangHaichieu
                 for(int i = 0; i < matrix.GetLength(0); i++)
                 {
                     wt.WriteLine();
-                    for(int j = i; j < matrix.GetLength(1); j++)
+                    for(int j = 0; j <= i; j++)
                     {
                         wt.Write($"{matrix[i, j]} ");
+                    }
+                }
+                wt.WriteLine("\n");
+                wt.WriteLine("Print Matrix Down (Ma tran tren)");
+                for (int i = 0; i < matrix.GetLength(0); i++)
+                {
+                    wt.WriteLine();
+                    for (int j = 0; j < matrix.GetLength(1); j++)
+                    {
+                        if(j >= i)
+                        {
+                            wt.Write($"{matrix[i, j]} ");
+                        }else
+                        {
+                            wt.Write($"   ");
+                        }
+                       
                     }
                 }
             }
