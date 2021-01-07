@@ -1,0 +1,12 @@
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.exe
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.deps.json
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.dll
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\bin\Debug\netcoreapp3.1\TH_CopyFile.pdb
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.dll
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.pdb
+C:\Users\HungTran\Source\Repos\TH_CopyFile\TH_CopyFile\obj\Debug\netcoreapp3.1\TH_CopyFile.genruntimeconfig.cache
