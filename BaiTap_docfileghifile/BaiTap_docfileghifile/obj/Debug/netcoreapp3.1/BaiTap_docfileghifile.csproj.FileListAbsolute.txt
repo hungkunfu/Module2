@@ -1,0 +1,13 @@
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\bin\Debug\netcoreapp3.1\BaiTap_docfileghifile.exe
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\bin\Debug\netcoreapp3.1\BaiTap_docfileghifile.deps.json
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\bin\Debug\netcoreapp3.1\BaiTap_docfileghifile.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\bin\Debug\netcoreapp3.1\BaiTap_docfileghifile.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\bin\Debug\netcoreapp3.1\BaiTap_docfileghifile.dll
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\bin\Debug\netcoreapp3.1\BaiTap_docfileghifile.pdb
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\obj\Debug\netcoreapp3.1\BaiTap_docfileghifile.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\obj\Debug\netcoreapp3.1\BaiTap_docfileghifile.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\obj\Debug\netcoreapp3.1\BaiTap_docfileghifile.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\obj\Debug\netcoreapp3.1\BaiTap_docfileghifile.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\obj\Debug\netcoreapp3.1\BaiTap_docfileghifile.dll
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\obj\Debug\netcoreapp3.1\BaiTap_docfileghifile.pdb
+C:\Users\HungTran\Source\Repos\BaiTap_docfileghifile\BaiTap_docfileghifile\obj\Debug\netcoreapp3.1\BaiTap_docfileghifile.genruntimeconfig.cache

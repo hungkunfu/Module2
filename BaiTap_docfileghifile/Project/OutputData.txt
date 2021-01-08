@@ -1,0 +1,18 @@
+Sum so chan = 94
+
+Sum duong bien = 105
+
+Ma tran Nhan 3 
+21 15 18 18 27 
+12 12 12 21 27 
+27 24 24 21 24 
+24 18 12 12 18 
+18 24 12 15 15 
+số lần xuất hiện các giá trị có trong ma trân trên 
+
+ so lan xuat hien so 7 =  3 lan 
+ so lan xuat hien so 5 =  3 lan 
+ so lan xuat hien so 6 =  5 lan 
+ so lan xuat hien so 9 =  3 lan 
+ so lan xuat hien so 4 =  6 lan 
+ so lan xuat hien so 8 =  5 lan 
