@@ -1,0 +1,130 @@
+{
+  "students": [
+    {
+      "Mahs": "01",
+      "HoTen": "Hung tran",
+      "GioiTinh": "Nam",
+      "Lop": "12b4",
+      "MonHoc": [
+        {
+          "scorename": "Toan",
+          "score": 4
+        },
+        {
+          "scorename": "Ly",
+          "score": 3
+        },
+        {
+          "scorename": "Hoa",
+          "score": 5.9
+        }
+      ]
+
+    },
+    {
+      "Mahs": "02",
+      "HoTen": "Dieu Hanh",
+      "GioiTinh": "Nu",
+      "Lop": "12b4",
+      "MonHoc": [
+        {
+          "scorename": "Toan",
+          "score": 8.9
+        },
+        {
+          "scorename": "Ly",
+          "score": 7.9
+        },
+        {
+          "scorename": "Hoa",
+          "score": 5.9
+        }
+      ]
+
+    },
+    {
+      "Mahs": "03",
+      "HoTen": "Hung Hanh",
+      "GioiTinh": "Be de",
+      "Lop": "12b5",
+      "MonHoc": [
+        {
+          "scorename": "Toan",
+          "score": 6
+        },
+        {
+          "scorename": "Ly",
+          "score": 7.9
+        },
+        {
+          "scorename": "Hoa",
+          "score": 5.9
+        }
+      ]
+
+    },
+    {
+      "Mahs": "04",
+      "HoTen": "Hung tran",
+      "GioiTinh": "Nam",
+      "Lop": "12b4",
+      "MonHoc": [
+        {
+          "scorename": "Toan",
+          "score": 8.9
+        },
+        {
+          "scorename": "Ly",
+          "score": 7.9
+        },
+        {
+          "scorename": "Hoa",
+          "score": 9
+        }
+      ]
+
+    },
+    {
+      "Mahs": "05",
+      "HoTen": "Hung tran",
+      "GioiTinh": "Nam",
+      "Lop": "12b4",
+      "MonHoc": [
+        {
+          "scorename": "Toan",
+          "score": 8.9
+        },
+        {
+          "scorename": "Ly",
+          "score": 7.9
+        },
+        {
+          "scorename": "Hoa",
+          "score": 9
+        }
+      ]
+
+    },
+    {
+      "Mahs": "06",
+      "HoTen": "Hung tran",
+      "GioiTinh": "Nam",
+      "Lop": "12b4",
+      "MonHoc": [
+        {
+          "scorename": "Toan",
+          "score": 4
+        },
+        {
+          "scorename": "Ly",
+          "score": 3
+        },
+        {
+          "scorename": "Hoa",
+          "score": 9
+        }
+      ]
+
+    }
+  ]
+}
