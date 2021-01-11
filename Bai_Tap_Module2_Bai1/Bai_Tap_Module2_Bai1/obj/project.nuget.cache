@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c35ycMhUxpAUScA7bTPmrIdzcig8QdCBh1Z1YfCfcntiY+S/yLdRyAKMaLicQh/ajXS1a470YtkV7pATqk0k3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HungTran\\Source\\Repos\\Bai_Tap_Module2_Bai1\\Bai_Tap_Module2_Bai1\\Bai_Tap_Module2_Bai1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HungTran\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

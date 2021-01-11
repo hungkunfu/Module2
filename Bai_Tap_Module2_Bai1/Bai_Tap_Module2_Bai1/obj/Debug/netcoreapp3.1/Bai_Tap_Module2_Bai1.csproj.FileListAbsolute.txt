@@ -1,0 +1,15 @@
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\bin\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.exe
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\obj\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\obj\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\obj\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\bin\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.deps.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\bin\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\bin\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\bin\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\bin\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\obj\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\obj\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.csproj.CopyComplete
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\obj\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\obj\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Module2_Bai1\Bai_Tap_Module2_Bai1\obj\Debug\netcoreapp3.1\Bai_Tap_Module2_Bai1.genruntimeconfig.cache
