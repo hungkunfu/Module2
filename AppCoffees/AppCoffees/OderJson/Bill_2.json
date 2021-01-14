@@ -1,0 +1,17 @@
+{
+  "2": {
+    "orderlist": [
+      {
+        "NameDrink": "oc ch\u0000",
+        "Price": 30000,
+        "Count": 2,
+        "Total": 60000
+      }
+    ],
+    "TableID": "2",
+    "ThuNgan": "hung tt\u0000n",
+    "StartTime": "1/13/2021 1:40:58 PM",
+    "EndTime": "1/13/2021 1:41:50 PM",
+    "TongTien": 60000
+  }
+}

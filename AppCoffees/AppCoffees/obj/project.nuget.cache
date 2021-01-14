@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Sj+qvYjr50x6YXksCI5zqY0BT+73APBIlVuLwyfGnFqwUQT3fk+5KqxjMLglE19Lxb0ps+B3NjlyLVb7xv/5g==",
+  "success": true,
+  "projectFilePath": "H:\\MODULE_2\\AppCoffees\\AppCoffees\\AppCoffees.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HungTran\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

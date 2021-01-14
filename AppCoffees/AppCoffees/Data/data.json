@@ -1,0 +1,56 @@
+﻿{
+  "Menu": [
+    {
+      "NameDrink": "Trà Sữa Trân Châu",
+      "Price": 35000,
+      "Unit": "Ly"
+    },
+    {
+      "NameDrink": "Trà Sữa Trân Châu Đường Đen",
+      "Price": 45000,
+      "Unit": "Ly"
+    },
+    {
+      "NameDrink": "Trà Đào",
+      "Price": 20000,
+      "Unit": "Ly"
+    },
+    {
+      "NameDrink": "Cà Phê Đen",
+      "Price": 22000,
+      "Unit": "Ly"
+    },
+    {
+      "NameDrink": "Cà Phê Sữa",
+      "Price": 45000,
+      "Unit": "Ly"
+    },
+    {
+      "NameDrink": "Trà Sữa Trân Châu Đường Đen",
+      "Price": 45000,
+      "Unit": "Ly"
+    }
+
+  ],
+  "Ban": [
+    {
+      "Ban": 1
+    },
+    {
+      "Ban": 2
+    },
+    {
+      "Ban": 3
+    },
+    {
+      "Ban": 4
+    },
+    {
+      "Ban": 5
+    },
+    {
+      "Ban": 6
+    }
+
+  ]
+}
