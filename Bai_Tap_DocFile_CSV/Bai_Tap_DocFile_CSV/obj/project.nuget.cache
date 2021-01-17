@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9i9dKAEJ3xdHQeEKWZq/CJVscXommwdDg+f7ZjtlEpAkx6v7l9Hm9TM+y+ILNtjwZTSKp6h3jPAaB3ck9kYrg==",
+  "success": true,
+  "projectFilePath": "H:\\MODULE_2\\Bai_Tap_DocFile_CSV\\Bai_Tap_DocFile_CSV\\Bai_Tap_DocFile_CSV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HungTran\\.nuget\\packages\\csvhelper\\19.0.0\\csvhelper.19.0.0.nupkg.sha512",
+    "C:\\Users\\HungTran\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
