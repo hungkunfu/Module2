@@ -1,0 +1,10 @@
+Gio Hang : gio1
+Star Time: 1/17/2021 7:13:19 PM	End Time: 1/17/2021 7:13:31 PM
+
+NameSP : ao quan dài
+ Price : 30000
+ Count : 3
+ Total : 90000
+
+
+SumTotal: 90000	Thu Ngan: hung tran

@@ -1,0 +1,15 @@
+{
+  "OrderList": [
+    {
+      "NameSP": "ao quan dài",
+      "Price": 30000,
+      "Count": 3,
+      "Total": 90000
+    }
+  ],
+  "cartID": "gio1",
+  "Cashier": "hung tran",
+  "StarTime": "1/17/2021 7:13:19 PM",
+  "EndTime": "1/17/2021 7:13:31 PM",
+  "SumTotal": 90000
+}

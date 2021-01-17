@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/cPceu2m3/9KilIcx77GKu/xuhbVPK7kIRbbOBhISiO2jZYphrsL4U1vdJSIdO9obhAtlUUciYUfTVPO0tcA8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HungTran\\Source\\Repos\\Bai_Tap_Nhom_Module2_ShopCart\\Bai_Tap_Nhom_Module2_ShopCart\\Bai_Tap_Nhom_Module2_ShopCart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HungTran\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

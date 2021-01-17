@@ -1,0 +1,15 @@
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\bin\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.exe
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\obj\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.csprojAssemblyReference.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\obj\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.AssemblyInfoInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\obj\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.AssemblyInfo.cs
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\obj\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.csproj.CoreCompileInputs.cache
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\bin\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.deps.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\bin\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.runtimeconfig.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\bin\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.runtimeconfig.dev.json
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\bin\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\bin\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\obj\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.csproj.CopyComplete
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\obj\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.dll
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\obj\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.pdb
+C:\Users\HungTran\Source\Repos\Bai_Tap_Nhom_Module2_ShopCart\Bai_Tap_Nhom_Module2_ShopCart\obj\Debug\netcoreapp3.1\Bai_Tap_Nhom_Module2_ShopCart.genruntimeconfig.cache
