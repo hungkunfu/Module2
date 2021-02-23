@@ -1,0 +1,79 @@
+﻿@*<form method="post" action="/Account/Login">
+        <table>
+            <tr>
+                <td>Email</td>
+                <td>
+                    <input type="email" name="Email"/>
+                </td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td>
+                    <input type="password" name="Password" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <button type="submit">Login</button>
+                    <button type="reset">Cancel</button>
+                </td>
+            </tr>
+        </table>
+    </form>*@
+@model LoginModel
+
+@*@using (Html.BeginForm(actionName: "Login", controllerName: "Account", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <table>
+        <tr>
+            <td>
+                @Html.LabelFor(item => item.Email)
+            </td>
+            <td>
+                @Html.TextBoxFor(item => item.Email)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(item => item.Password)
+            </td>
+            <td>
+                @Html.PasswordFor(item => item.Password)
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit">Login</button>
+                <button type="reset">Cancel</button>
+            </td>
+        </tr>
+    </table>
+}*@
+
+<form method="post" asp-action="Login" asp-controller="Account">
+    <table>
+        <tr>
+            <td>
+                @*<th:label asp-for="Email"></th:label>*@
+                <label asp-for="Email"></label>
+            </td>
+            <td>
+                <input asp-for="Email" />
+                @*<th:input asp-for="Email" />*@
+            </td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td>
+                <input type="password" asp-for="Password" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <button type="submit">Login</button>
+                <button type="reset">Cancel</button>
+            </td>
+        </tr>
+    </table>
+</form>

@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/bootstrap-v4/css/bootstrap.min.css" rel="stylesheet" />
+
+    <link href="~/lib/font-awesome/css/font-awesome.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <a class="navbar-brand" href="#">
+                <img class="rounded-circle" src="~/images/bird.jpg" alt="Logo" style="width:40px;">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Employee" asp-action="Index">Employee</a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">SignIn</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">SingUp</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <main>
+            @RenderBody()
+        </main>
+        <footer class="jumbotron text-center" style="margin-bottom:0">
+            <p>Copy right &copy; @DateTime.Now.Year</p>
+        </footer>
+    </div>
+
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/lib/bootstrap-v4/js/bootstrap.min.js"></script>
+    @RenderSection("Script", false);
+</body>
+</html>
